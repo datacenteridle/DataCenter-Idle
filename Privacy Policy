@@ -1,29 +1,91 @@
-Privacy Policy (English)
+# Privacy Policy – DataCenter Idle
 
-Privacy Policy for DataCenter Idle
+*Last updated: November 9, 2026*
 
-DataCenter Idle collects the email addresses of users who choose to create an account. This information is stored securely on Firebase.
+DataCenter Idle is developed by an independent developer. This policy explains what data the game uses, why, and how you can control it. The game contains **no ads** and does **not** use the advertising ID.
 
-Other game data, such as in-game progress, box content, and scene layout, are also saved on Firebase when the user has an account.
+## 1. Data we collect
 
-All data is encrypted during transfer and handled in accordance with applicable data protection regulations.
+**Nickname and leaderboard (visible to other players)**
+To show the leaderboard and the friends feature, the game stores on Google Firebase: the nickname you choose, your production speed, your total money earned, your current tier, your skin, your online status, your friends list and friend requests. This information is linked to a random identifier created by the game. **Your nickname and these game stats are visible to other players.** Do not use your real name as a nickname.
 
-Users can request the deletion of their account and all associated data by following the instructions here: https://github.com/datacenteridle/DataCenter-Idle/blob/main/account%20deletion.
+**Sign-in**
+The game signs you in automatically with Firebase Authentication, either anonymously or with your Google Play Games account if you use it. This sign-in is only used to make sure that only you can modify your own data.
 
-If you have any questions about this privacy policy, please contact us at datacenter.idle@gmail.com.
+**Cloud save**
+If you are signed in with Google Play Games, your progress (machines, storage box, rack layout, money and upgrades) is saved on Firebase and linked to your Google Play Games account, so you can restore it on another device.
 
+**Crash reports**
+When the game crashes, Firebase Crashlytics sends a technical report: the error, device model, Android version, game version, the game's random identifier and your nickname. These reports are only used to fix bugs.
 
+**Usage statistics (optional)**
+On first launch, the game asks whether you agree to send anonymous statistics. If you accept, the game sends Google Analytics for Firebase information about how you play: progress (tiers), in-game actions (buying a machine, opening a lootbox, repairing), session length, device model, OS and game versions, and approximate country. This data contains no nickname, no email address and no advertising ID, and is only used to improve the game. If you decline, nothing is sent. You can change your choice at any time in **Settings › Statistics**; declining stops sending and erases the statistics data stored on the device.
 
-Politique de confidentialité (Français)
+**Former email accounts**
+Earlier versions of the game offered an optional account with an email address. This feature is no longer available. Existing data is kept until you ask for its deletion.
 
-Politique de confidentialité pour DataCenter Idle
+## 2. Who processes the data
 
-DataCenter Idle collecte les adresses e-mail des utilisateurs qui choisissent de créer un compte. Ces informations sont stockées de manière sécurisée sur Firebase.
+All data is stored and processed by **Google Firebase** (Google LLC), which acts as our service provider. We do not sell your data and do not share it with anyone else. Google's privacy policy: https://policies.google.com/privacy
 
-D’autres données du jeu, comme la progression, le contenu de la box et la disposition de la scène, sont également sauvegardées sur Firebase lorsque l’utilisateur possède un compte.
+## 3. Security and retention
 
-Toutes les données sont chiffrées lors de leur transfert et traitées conformément aux réglementations applicables en matière de protection des données.
+Data is encrypted during transfer. Access rules on the database prevent other players from modifying your data.
+- Leaderboard, friends and cloud save: kept as long as you play, or until you ask for deletion.
+- Crash reports: kept 90 days.
+- Usage statistics: kept 14 months.
 
-Les utilisateurs peuvent demander la suppression de leur compte et de toutes les données associées en suivant les instructions ici : https://github.com/datacenteridle/DataCenter-Idle/blob/main/account%20deletion.
+## 4. Your rights
 
-Pour toute question concernant cette politique de confidentialité, veuillez nous contacter à datacenter.idle@gmail.com.
+Under the GDPR, you can access, correct or delete your data at any time. To delete your data, follow these instructions: https://github.com/datacenteridle/DataCenter-Idle/blob/main/account%20deletion — or write to us. You can also lodge a complaint with your data protection authority.
+
+## 5. Contact
+
+datacenter.idle@gmail.com
+
+---
+
+# Politique de confidentialité – DataCenter Idle
+
+*Dernière mise à jour : 9 novembre 2026*
+
+DataCenter Idle est développé par un développeur indépendant. Cette politique explique quelles données le jeu utilise, pourquoi, et comment vous pouvez les contrôler. Le jeu ne contient **aucune publicité** et n'utilise **pas** l'identifiant publicitaire.
+
+## 1. Données collectées
+
+**Pseudo et classement (visibles par les autres joueurs)**
+Pour afficher le classement et la fonction amis, le jeu enregistre sur Google Firebase : le pseudo que vous choisissez, votre vitesse de production, votre argent total gagné, votre palier actuel, votre skin, votre statut en ligne, votre liste d'amis et vos demandes d'amis. Ces informations sont liées à un identifiant aléatoire créé par le jeu. **Votre pseudo et ces statistiques de jeu sont visibles par les autres joueurs.** N'utilisez pas votre vrai nom comme pseudo.
+
+**Connexion**
+Le jeu vous connecte automatiquement avec Firebase Authentication, de façon anonyme ou avec votre compte Google Play Jeux si vous l'utilisez. Cette connexion sert uniquement à garantir que vous seul pouvez modifier vos données.
+
+**Sauvegarde cloud**
+Si vous êtes connecté à Google Play Jeux, votre progression (machines, box de stockage, disposition des racks, argent et améliorations) est sauvegardée sur Firebase et liée à votre compte Google Play Jeux, pour pouvoir la restaurer sur un autre appareil.
+
+**Rapports de plantage**
+Quand le jeu plante, Firebase Crashlytics envoie un rapport technique : l'erreur, le modèle de l'appareil, la version d'Android, la version du jeu, l'identifiant aléatoire du jeu et votre pseudo. Ces rapports servent uniquement à corriger les bugs.
+
+**Statistiques d'utilisation (facultatives)**
+Au premier lancement, le jeu vous demande si vous acceptez d'envoyer des statistiques anonymes. Si vous acceptez, le jeu envoie à Google Analytics for Firebase des informations sur votre utilisation : progression (paliers), actions dans le jeu (achat de machine, ouverture de lootbox, réparation), durée des sessions, modèle de l'appareil, versions du système et du jeu, pays approximatif. Ces données ne contiennent ni pseudo, ni adresse e-mail, ni identifiant publicitaire, et servent uniquement à améliorer le jeu. Si vous refusez, rien n'est envoyé. Vous pouvez changer d'avis à tout moment dans **Réglages › Statistiques** ; un refus arrête l'envoi et efface les statistiques enregistrées sur l'appareil.
+
+**Anciens comptes e-mail**
+Les anciennes versions du jeu proposaient un compte facultatif avec adresse e-mail. Cette fonction n'existe plus. Les données existantes sont conservées jusqu'à votre demande de suppression.
+
+## 2. Qui traite les données
+
+Toutes les données sont stockées et traitées par **Google Firebase** (Google LLC), qui agit comme prestataire. Nous ne vendons pas vos données et ne les partageons avec personne d'autre. Politique de Google : https://policies.google.com/privacy
+
+## 3. Sécurité et conservation
+
+Les données sont chiffrées lors de leur transfert. Des règles d'accès sur la base de données empêchent les autres joueurs de modifier vos données.
+- Classement, amis et sauvegarde cloud : conservés tant que vous jouez, ou jusqu'à votre demande de suppression.
+- Rapports de plantage : conservés 90 jours.
+- Statistiques d'utilisation : conservées 14 mois.
+
+## 4. Vos droits
+
+Conformément au RGPD, vous pouvez à tout moment accéder à vos données, les corriger ou les supprimer. Pour supprimer vos données, suivez ces instructions : https://github.com/datacenteridle/DataCenter-Idle/blob/main/account%20deletion — ou écrivez-nous. Vous pouvez aussi introduire une réclamation auprès de l'autorité de protection des données (en Belgique : l'Autorité de protection des données, www.autoriteprotectiondonnees.be).
+
+## 5. Contact
+
+datacenter.idle@gmail.com
